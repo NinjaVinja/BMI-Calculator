@@ -5,7 +5,7 @@ It takes your **weight** and **height** as input, calculates your **BMI**, and t
 
 ---
 
-## 📸 Demo
+![BMI Calculator Demo](BMI%20Image.jpeg)
 
 
 ---
